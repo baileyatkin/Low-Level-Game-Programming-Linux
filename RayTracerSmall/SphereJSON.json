@@ -1,0 +1,46 @@
+{
+	"sphereAmount": 4,
+	"frameCount": 100,
+	"spheres": [
+		{
+			"startPos": [ -30.0, 0.0, -100.0 ],
+			"endPos": [ 30.0, 0.0, -100.0 ],
+			"startRadius": 10.0,
+			"endRadius": 20.0,
+			"surfaceColor": [ 0.5, 0.5, 1.0 ],
+			"endColour": [ 1.0, 0.5, 0.5 ],
+			"reflection": 0.2,
+			"transparency": 0.0
+		},
+		{
+			"startPos": [ 20.0, -8.0, -75.0 ],
+			"endPos": [ -20.0, 8.0, -75.0 ],
+			"startRadius": 5.0,
+			"endRadius": 5.0,
+			"surfaceColor": [ 0.5, 1.0, 0.5 ],
+			"endColour": [ 1.0, 0.5, 0.5 ],
+			"reflection": 1.0,
+			"transparency": 0.5
+		},
+		{
+			"startPos": [ 0.0, -10.0, 0.0 ],
+			"endPos": [ 0.0, 5.0, -70.0 ],
+			"startRadius": 6.0,
+			"endRadius": 6.0,
+			"surfaceColor": [ 0.7, 0.0, 0.5 ],
+			"endColour": [ 0.7, 0.0, 0.5 ],
+			"reflection": 0.0,
+			"transparency": 0.75
+		},
+		{
+			"startPos": [ -20.0, 4.0, -65.0 ],
+			"endPos": [ 20.0, -4.0, -65.0 ],
+			"startRadius": 3.0,
+			"endRadius": 3.0,
+			"surfaceColor": [ 0.2, 0.6, 1.0 ],
+			"endColour": [ 0.6, 1.0, 0.2 ],
+			"reflection": 1.0,
+			"transparency": 0.0
+		}
+	]
+}
